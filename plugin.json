@@ -1,0 +1,10 @@
+{
+  "name": "mail-agent",
+  "version": "1.0.0",
+  "description": "AI-powered Gmail smart organization and automated bank statement processing plugin.",
+  "author": "Tony Wang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a0000182000-assistant/mail-agent-plugin.git"
+  }
+}
